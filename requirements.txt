@@ -1,0 +1,3 @@
+np# Intentionally no Python dependencies.
+# This sandbox implementation uses the preconfigured Next.js full-stack runtime.
+# See README.md under “Stack choice and source assumption”.
